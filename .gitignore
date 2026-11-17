@@ -26,3 +26,17 @@ test.txt.replace
 claptrap
 fragtrap
 scavtrap
+
+# cpp07/08/09 ejecutables
+cpp07/ex00/whatever
+cpp07/ex01/iter
+cpp07/ex02/array
+cpp08/ex00/easyfind
+cpp08/ex01/span
+cpp08/ex02/mutantstack
+cpp09/ex00/btc
+cpp09/ex01/RPN
+cpp09/ex02/PmergeMe
+
+# Mantener fixtures de test de cpp09
+!cpp09/ex00/input.txt
